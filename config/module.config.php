@@ -43,7 +43,7 @@ return [
             ],
             'collections' => [
                 // required for admin edit //
-                'modules/rcm-admin/js/rcm-admin.js' => [
+                'modules/rcm-admin/admin.js' => [
                     'modules/rcm-call-to-action-box/call-to-action-box-edit.js',
                 ],
             ],
