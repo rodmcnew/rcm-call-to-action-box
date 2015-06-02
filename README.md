@@ -1,4 +1,4 @@
-Rcm Brightcove
+Rcm Call to Action Box Plugin
 ======
 
-Provides a Brightcove player integration for the Reliv Content Manager
+Plugin Widget for generatin cal to action boxes
